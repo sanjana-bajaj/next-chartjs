@@ -24,6 +24,7 @@ export const BarChart = () => {
                   {
                     label: 'Sales',
                     data: [10, 20, 30, 40, 20, 65, 10, 34, 67, 90, 78, 20],
+                    //background colors for chart
                     backgroundColor: [
                         "rgb(255, 99, 132, 0.2)",
                         "rgb(255, 159, 64, 0.2)",
